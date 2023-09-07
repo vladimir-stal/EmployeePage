@@ -1,6 +1,7 @@
 # UserPage Frontend (React) demonstrative project
 
 Shows Employee page. Takes user data from https://fakestoreapi.com/users
+
 Stack: React/Typescript/Tailwind/MUI/Axios/
 
 In the project directory run:
